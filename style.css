@@ -198,8 +198,9 @@ margin-top: 7%;
   margin: 5%;
   font-family: "Arsenal SC", sans-serif;
   font-weight: 500;
-  background-image: url(./imagenes/5af1f7230024abf57e8020427471018e.gif);
-  background-size:30%;
+  background-color: #0c0c0c;
+  background-image: url(./IMAGENES/confeti.gif);
+  background-size:50%;
 
 }
 .linea{
@@ -240,7 +241,7 @@ margin-top: 7%;
   border: none;
   border-radius: 20px;
   color: #ffffff;
- background-image: url(./imagenes/5af1f7230024abf57e8020427471018e.gif);
+ background-image: url(./IMAGENES/5af1f7230024abf57e8020427471018e.gif);
  background-size:80%;
   box-shadow: 1px 1px 30px -5px#d2c598; 
   cursor: pointer;
