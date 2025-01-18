@@ -190,9 +190,9 @@
 text-align: center;
 margin-top: 7%;
     }
-.parrafoDe{
+.confirmar{
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
   color: #ffffff;
   margin-top: 12%; 
   margin: 5%;
@@ -202,6 +202,13 @@ margin-top: 7%;
   background-size:30%;
 
 }
+.linea{
+  color:#646464;
+  width: 70%;
+ margin-left: 15%;
+ margin-top: 10%;
+}
+
 .parrafo3{
   text-align: center;
   font-size: 32px;
@@ -211,16 +218,18 @@ margin-top: 7%;
   font-weight: 400;
        
 }
+
+.whatsap{
+  width: 20%;
+  margin-left: 39%;
+  margin-top: -5%;
+}
 .final{
   width: 100%;
   
  
 }
-.franco{
-  width: 100%;
-margin-top: 15%;
- 
-}
+
 
 .click2{
   padding: 2px 10px;
